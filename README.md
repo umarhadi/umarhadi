@@ -11,7 +11,7 @@
 
 ## 🔗 Links
 
-- Email: umarhs@protonmail.com
+- Email: hi@umarhadi.xyz
 - Website: https://umarhadi.xyz
 - Instagram(?): https://photos.umarhadi.xyz/me
 
