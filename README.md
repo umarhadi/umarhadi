@@ -5,8 +5,6 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarhadi&langs_count=80&hide=html,php,roff,css)](https://github.com/umarhadi/umarhadi)
-
 [![Umar's Github Stats](https://github-readme-stats.vercel.app/api?username=umarhadi&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/umarhadi/umarhadi)
 
 ## 🔗 Links
