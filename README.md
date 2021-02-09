@@ -11,9 +11,9 @@
 
 ## 🔗 Links
 
-- Email: umar.hadi.siswanto@student.uty.ac.id
-- Blog: https://blog.umarhadi.xyz
-- Instagram: https://instagram.com/__siswanto
+- Email: umarhs@protonmail.com
+- Website: https://umarhadi.xyz
+- Instagram(?): https://photos.umarhadi.xyz/me
 
 ---
 <div align="center">
