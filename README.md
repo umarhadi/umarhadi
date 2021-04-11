@@ -5,7 +5,10 @@
 
 
 ---
-[![Umar's Github Stats](https://github-readme-stats.vercel.app/api?username=umarhadi&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/umarhadi/umarhadi)
+<img src="https://github-stats-umar.vercel.app/api?username=umarhadi&count_private=true&theme=default&include_all_commit=true" />
+
+<img src="https://github-stats-umar.vercel.app/api/top-langs/?username=leerob&count_private=true&hide=jupyter%20notebook,php,css,scss,html,roff&langs_count=20&theme=default&layout=compact" />
+
 
 ## 🔗 Links
 
