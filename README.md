@@ -5,9 +5,9 @@
 
 
 ---
-<img src="https://github-stats-umar.vercel.app/api?username=umarhadi&theme=react&hide=stars" />
+<img src="https://github-stats-umar.vercel.app/api?username=umarhadi&hide=stars&show_icons=true&bg_color=60,aac9ce,b6b4c2&title_color=000&text_color=000" />
 
-<img src="https://github-stats-umar.vercel.app/api/top-langs/?username=umarhadi&count_private=true&hide=jupyter%20notebook,php,html&langs_count=10&theme=react&layout=compact" />
+<img src="https://github-stats-umar.vercel.app/api/top-langs/?username=umarhadi&count_private=true&hide=html,roff&langs_count=10&layout=compact&bg_color=60,aac9ce,b6b4c2&title_color=000&text_color=000" />
 
 
 ## 🔗 Links
